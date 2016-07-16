@@ -17,9 +17,9 @@ import (
 )
 
 var defaultPortMap = map[string]int{
-	"http":  80,
-	"https": 443,
-	"smtp":  25,
+	"http":  8480,
+	"https": 8443,
+	"smtp":  8425,
 }
 
 /**
